@@ -1,6 +1,9 @@
-web page design 
-using 
-bootstrap4
+**web page design** 
 
-based on this image
-![ScreenShot](/images/Task 1 screenshot.png)
+using 
+
+>bootstrap4
+
+>based on this image
+
+![Alt Text](/images/Task 1 screenshot.png)
