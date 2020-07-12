@@ -1,0 +1,6 @@
+its a theme for wordpress.org.
+in this task i applied the static page.
+
+you can add theme in wordpress
+from appearance -> themes -> add theme -> upload theme.
+

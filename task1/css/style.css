@@ -1,0 +1,73 @@
+
+body
+	{
+	background: #101010;
+	color:#fff;
+}
+
+
+/*navbar */
+.navbar {
+	top:20px;
+	border-left: 6px solid #d54ab6;
+	z-index:1;
+}
+
+
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #d54ab6;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.carousel-item img{
+	height: 400px;
+    object-fit: cover;
+}
+
+.carousel-caption{
+	text-align: left;
+	left: auto;
+	bottom: 140px;
+}
+
+.carousel-indicators{
+	bottom: 27px;
+}
+/* cards */
+.card{
+	background-color:#FFA500; 
+	text-align: center;
+	color: #fff;
+	position: relative;
+    bottom: 50px;
+}
+
+.card-two{
+	background-color:#009988;
+}
+
+.card-three{
+	background-color:#C14000;
+}
+
+.card .fas{
+    border: 2px solid #fff;
+    border-radius: 50%;
+    font-size: 32px;
+    width: 80px;
+    height: 80px;
+    line-height: 76px;
+    text-transform: capitalize;
+}
+
+.w-100 {
+    width: 100%!important;
+}
+
+.container {
+    padding-right: 12px;
+    padding-left: 12px;
+}
