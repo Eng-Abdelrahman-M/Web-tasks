@@ -1,9 +1,9 @@
 **web page design** 
 
-using 
+Using 
 
 >bootstrap4
 
->based on this image
+Based on this image
 
 ![Alt Text](/task1/images/Task%201%20screenshot.png)
