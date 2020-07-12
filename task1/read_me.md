@@ -6,4 +6,4 @@ using
 
 >based on this image
 
-![Alt Text](task1/images/Task%201%20screenshot.png)
+![Alt Text](/images/Task%201%20screenshot.png)
